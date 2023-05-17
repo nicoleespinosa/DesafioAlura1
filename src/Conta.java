@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Conta {
     public static void main(String[] args) {
-        String nome = "";
+        String nome = "Lorem Ipsum";
         String tipoConta = "Corrente";
         double saldo = 2500.00;
         int opcao = 0;
@@ -14,7 +14,7 @@ public class Conta {
                 ***********************
                 Dados iniciais do Cliente:
                 
-                Nome: Samara Oléria
+                Nome: Lorem Ipsum
                 Tipo de conta: Corrente
                 Saldo: %.2f
                 
